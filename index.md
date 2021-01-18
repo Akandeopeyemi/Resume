@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Opeyemi Mary Akande
 
-You can use the [editor on GitHub](https://github.com/horpedjemi/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Ambitious and driven with experience in Educational management and data analysis*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Address:**
+14 Awofeso Street, Palmgroove, Lagos Mainland. Lagos, Nigeria.
 
-### Markdown
+**Phone:**
++234(0) 815 766 1037
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Linkedin](https://www.linkedin.com/in/opeyemi-mary-akande-175a179b) / <a href="mailto:akande.om@gmail.com">Send mail</a>
 
-```markdown
-Syntax highlighted code block
+### 💻🖊️ Technical Experience
 
-# Header 1
-## Header 2
-### Header 3
+**Education Consultant/ Instructor @ [Tuteria](https://www.tuteria.com/s/hometutors?gclid=CjwKCAiAgJWABhArEiwAmNVTB8GHjyxN3Vcb46zSGUd0EZ5m4H3Olwt-D9vKG5DKUmIBxjichlrxYhoCPEwQAvD_BwE) Lagos Nigeria** (Mar,2016 – Present)
+A freelance Teacher of STEM ( Science, Technology, Engineering and 
+Mathematics) education system subjects to secondary school students
+- Helping students through school's curriculum, study approaches and recommending study materials or textbooks
+- Preparing students for local(WASSCE and NECO) and international examinations (SAT and IGCSC).
+- **Technology used:** Microsoft Excel, PowerPoint, Microsoft word
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Sales Representative @ [Mopheth Group](http://www.mophethgroup.com/) Lagos Nigeria** (Dec,2016 - Dec,2017) Adidas international Franchise 
+- Computing daily sales analysis and reports
+- Track all sales activities in company CRM system and keep current by udpating account information regularly
+- Communicate customer and prospect product pain points to appropriate departments
+- **Technology used:** Excel, Microsoft office
 
-**Bold** and _Italic_ and `Code` text
+**Subject Instructor, @ [IMCC](https://www.nappsng.org/schools/13693/) Nsugbe. Anambra State, Nigeria** (Jul,2013 – Jun,2014) STEM subjects Classroom teacher
+- Mathematics teacher for senior secondary school students.
+- Organizer and coordination of school terminal examinations.
+- Preparation of secondary school students for school-leaving examinations (WAEC and 
+NECO).
+- **Technology used:** Microsoft Excel, PowerPoint, Microsoft word
 
-[Link](url) and ![Image](src)
-```
+**Quality Assurance Assistant (Intern) @ [NAFDAC](https://www.nafdac.gov.ng/) Lagos, Nigeria** (Aug,2011 – Dec,2011)
+- Validation of state concentration of active ingredients in samples using Higher Performance Liquid Chromatography (HPLC) machine, Dissolution machine.
+- Daily chemical analysis using standard operating procedures.
+- Solutions and reagents preparation
+- Product and samples chemical analysis and report preparation.
+- Laboratory inventory management.
+- **Technology used:** SPSS, Microsoft Excel, PowerPoint
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Quality Control and Production Assistant @ Ore-Ofe Oluwa Palm Kernel Oil Extraction Company. Ogbomoso, Nigeria** (Nov,2010 – Dec,2010)
+- Routine quality control analysis.
+- Plant maintenance monitory and supervision.
+- Procurement of Chemical and other production materials.
+- **Technology used:** 
 
-### Jekyll Themes
+### 🎓 Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/horpedjemi/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+University of Lagos, Akoka Lagos, Nigeria (Dec,2014 – Dec,2015)
 
-### Support or Contact
+- **Master of Science, Chemical Engineering.**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ladoke Akintola University of Technology, Ogbomoso, Nigeria** (Sept,2007 – Nov,2012)
+
+- **Bachelor of Technology, Chemical Engineering**
+
+### 🇳🇬 Languages
+
+**English**
+
+**Yoruba:** Native
