@@ -5,11 +5,11 @@
 **Address:**
 14 Awofeso Street, Palmgroove, Lagos Mainland. Lagos, Nigeria.
 
-[Linkedin](https://www.linkedin.com/in/opeyemi-mary-akande-175a179b) / <a href="mailto:akande.om@gmail.com">Send mail</a>
+[Linkedin](https://www.linkedin.com/in/opeyemi-mary-akande-175a179b) / <a href="mailto:akande.om@gmail.com">Send mail</a> / [Github](
 
 ### 💻🖊️ Work Experience
 
-**Education Consultant/ Instructor @ [Tuteria](https://www.tuteria.com/s/hometutors?gclid=CjwKCAiAgJWABhArEiwAmNVTB8GHjyxN3Vcb46zSGUd0EZ5m4H3Olwt-D9vKG5DKUmIBxjichlrxYhoCPEwQAvD_BwE) Lagos Nigeria** (Mar,2016 – Present)
+**Educational Consultant/ Instructor @ [Tuteria](https://www.tuteria.com/s/hometutors?gclid=CjwKCAiAgJWABhArEiwAmNVTB8GHjyxN3Vcb46zSGUd0EZ5m4H3Olwt-D9vKG5DKUmIBxjichlrxYhoCPEwQAvD_BwE) Lagos Nigeria** (Mar,2016 – Present)
 A freelance Teacher of STEM ( Science, Technology, Engineering and 
 Mathematics) education system subjects to secondary school students
 - Helping students through school's curriculum, study approaches and recommending study materials or textbooks
