@@ -5,7 +5,7 @@
 **Address:**
 14 Awofeso Street, Palmgroove, Lagos Mainland. Lagos, Nigeria.
 
-[Linkedin](https://www.linkedin.com/in/opeyemi-mary-akande-175a179b) / <a href="mailto:akande.om@gmail.com">Send mail</a>
+[Linkedin](https://www.linkedin.com/in/opeyemiakande) / <a href="mailto:akande.om@gmail.com">Send mail</a>
 
 ### 💻🖊️ Work Experience
 
