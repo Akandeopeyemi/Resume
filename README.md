@@ -17,7 +17,7 @@ Mathematics) subjects to secondary school students
 - **Tools used:** Microsoft Excel, PowerPoint, Microsoft word
 
 
-**Sales Representative** @ [Mopheth Group](http://www.mophethgroup.com/) (Dec, 2016 - Dec, 2017) Adidas international Franchise 
+**Sales Representative** @ [Mopheth Group](http://www.mophethgroup.com/) (Dec, 2016 - Dec, 2017) Adidas International Franchise 
 - Computing daily sales analysis and reports
 - Track all sales activities in company CRM system and keep current by udpating account information regularly
 - Communicate customer and prospect product pain points to appropriate departments
@@ -55,6 +55,6 @@ Ladoke Akintola University of Technology, Ogbomoso, Nigeria [School link!](https
 
 ### 🇳🇬 Languages
 
-**English:** Competent user
+**English:** Fluent
 
 **Yoruba:** Native
