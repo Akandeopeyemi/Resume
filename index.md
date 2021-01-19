@@ -55,6 +55,6 @@ Ladoke Akintola University of Technology, Ogbomoso, Nigeria [School link!](https
 
 ### 🇳🇬 Languages
 
-**English:** Competent user
+**English:** Fluent user
 
 **Yoruba:** Native
