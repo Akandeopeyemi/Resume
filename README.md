@@ -11,7 +11,7 @@
 
 **Educational Consultant/ Instructor @ [Tuteria](https://www.tuteria.com/s/hometutors?gclid=CjwKCAiAgJWABhArEiwAmNVTB8GHjyxN3Vcb46zSGUd0EZ5m4H3Olwt-D9vKG5DKUmIBxjichlrxYhoCPEwQAvD_BwE) Lagos Nigeria** (Mar, 2016 – Present)
 A freelance Teacher of STEM ( Science, Technology, Engineering and 
-Mathematics) education system subjects to secondary school students
+Mathematics) subjects to secondary school students
 - Helping students through school's curriculum, study approaches and recommending study materials or textbooks
 - Preparing students for local(WASSCE and NECO) and international examinations (SAT and IGCSC).
 - **Tools used:** Microsoft Excel, PowerPoint, Microsoft word
