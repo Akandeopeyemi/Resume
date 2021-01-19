@@ -45,11 +45,11 @@ NECO).
 
 ### 🎓 Education
 
-University of Lagos, Akoka Lagos, Nigeria (http://spgs.unilag.edu.ng/) (Dec, 2014 – Dec, 2015)
+University of Lagos, Akoka Lagos, Nigeria [School link!](http://spgs.unilag.edu.ng/) (Dec, 2014 – Dec, 2015)
 
 - **Master of Science, Chemical Engineering.**
 
-Ladoke Akintola University of Technology, Ogbomoso, Nigeria (https://www.lautech.edu.ng/) (Sept, 2007 – Nov, 2012)
+Ladoke Akintola University of Technology, Ogbomoso, Nigeria [School link!](https://www.lautech.edu.ng/) (Sept, 2007 – Nov, 2012)
 
 - **Bachelor of Technology, Chemical Engineering**
 
