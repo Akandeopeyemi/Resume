@@ -14,21 +14,21 @@ A freelance Teacher of STEM ( Science, Technology, Engineering and
 Mathematics) subjects to secondary school students
 - Helping students through school's curriculum, study approaches and recommending study materials or textbooks
 - Preparing students for local(WASSCE and NECO) and international examinations (SAT and IGCSC).
-- **Tools used:** Microsoft Excel, PowerPoint, Microsoft word
+- **Tools used:** Microsoft Excel, Microsoft PowerPoint, Microsoft Word
 
 
 **Sales Representative** @ [Mopheth Group](http://www.mophethgroup.com/) (Dec, 2016 - Dec, 2017) Adidas International Franchise 
 - Computing daily sales analysis and reports
 - Track all sales activities in company CRM system and keep current by udpating account information regularly
 - Communicate customer and prospect product pain points to appropriate departments
-- **Tools used:** Excel, Microsoft office
+- **Tools used:** Microsoft Excel, Microsoft Word
 
 **Subject Instructor** @ [IMCC](https://www.nappsng.org/schools/13693/) (Jul, 2013 – Jun, 2014) STEM subjects Classroom teacher
 - Mathematics teacher for senior secondary school students.
 - Organizer and coordination of school terminal examinations.
 - Preparation of secondary school students for school-leaving examinations (WAEC and 
 NECO).
-- **Tools used:** Microsoft Excel, PowerPoint, Microsoft word
+- **Tools used:** Microsoft Excel, Microsoft PowerPoint, Microsoft word
 
 **Quality Assurance Assistant (Intern)** @ [NAFDAC](https://www.nafdac.gov.ng/) (Aug, 2011 – Dec, 2011)
 - Validation of state concentration of active ingredients in samples using Higher Performance Liquid Chromatography (HPLC) machine, Dissolution machine.
@@ -36,7 +36,7 @@ NECO).
 - Solutions and reagents preparation
 - Product and samples chemical analysis and report preparation.
 - Laboratory inventory management.
-- **Tools used:** SPSS, Microsoft Excel, PowerPoint
+- **Tools used:** SPSS, Microsoft Excel, Microsoft PowerPoint
 
 **Quality Control and Production Assistant** @ Ore-Ofe Oluwa Palm Kernel Oil Extraction Company. Ogbomoso, Nigeria (Nov, 2010 – Dec, 2010)
 - Routine quality control analysis.
